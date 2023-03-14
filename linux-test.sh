@@ -15,4 +15,4 @@ echo "Running Impact Attacks"
 
 echo "Running Persistence Attacks"
 ./linux/persistence/atomic-T1156.sh
-./linux/persistence/atomic-T1158.sh
+# ./linux/persistence/atomic-T1158.sh
